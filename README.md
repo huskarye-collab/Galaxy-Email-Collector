@@ -1,1 +1,1 @@
-## Galaxy-Email-Collector
+# Galaxy-Email-Collector
